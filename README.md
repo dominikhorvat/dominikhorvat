@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 👋
+Projekti prikazani u repozitorijima na ovom profilu ocijenjeni su maksimalnim brojem bodova od strane zaduženih predavača na studijskim kolegijima. Neki od njih nadmašili su standardne kriterije bodovanja te su dodatno nagrađeni bonus bodovima.
 <!--
 **dominikhorvat/dominikhorvat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

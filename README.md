@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋
+Projekti, zadaće prikazani u repozitorijima na ovom profilu izrađeni su u sklopu studijskih kolegijia. 
+ 
+Svi preneseni projekti u repozitorijima ocijenjeni su maksimalnim brojem bodova od strane zaduženih predavača. Također, neki od repozitorija sadrže i tekstove/opise projekata za lakše razumijevanje njihovih rješenja, implementacija. 
+
+Ispod je izdvojeno samo 6 repozitorija, kao što to omogućuje opcija *Pinned*, za uvid u sve projekte kliknite na *Repositories* 😄
 
 <!--
 **dominikhorvat/dominikhorvat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

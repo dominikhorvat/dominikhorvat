@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋
+
+Dobrodošli u moj GitHub portfolio! Ovdje ćete otkriti raznovrsne projekte i studijske zadatke koje sam uspješno realizirao. 📚💻👓
 
 <!--
 **dominikhorvat/dominikhorvat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
